@@ -1,0 +1,19 @@
+{
+  "name": "jscdn",
+  "authors": [
+    "Orlando Sergio Dominguez <serggio@msn.com>"
+  ],
+  "description": "Content delivery network for serve library and framewroks in javascript for any purpose.",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./",
+    "test",
+    "tests"
+  ]
+}
