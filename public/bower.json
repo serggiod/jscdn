@@ -23,6 +23,8 @@
     "angular-sanitize": "^1.4.9",
     "angular-route": "^1.4.9",
     "angular-md5": "^0.1.10",
-    "crypto-js": "CryptoJS#^3.1.12"
+    "crypto-js": "CryptoJS#^3.1.12",
+    "froala-wysiwyg-editor": "froala#^2.1.0",
+    "angular-froala": "^2.1.0"
   }
 }
