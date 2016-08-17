@@ -1,0 +1,30 @@
+{
+  "name": "angular-pea-slider",
+  "license": "MIT",
+  "description": "Image Slider",
+  "main": "./src/angular-pea-slider.js",
+  "authors": [
+    "Felipe Mengatto <felipemengatto@gmail.com>"
+  ],
+  "homepage": "https://github.com/felipemengatto/angular-pea-slider.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.3"
+  },
+  "_release": "07188be108",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "07188be108e1ddbd1431687cfe68edcfeb1ae547"
+  },
+  "_source": "https://github.com/felipemengatto/Pea-Slider.git",
+  "_target": "*",
+  "_originalSource": "angular-pea-slider",
+  "_direct": true
+}

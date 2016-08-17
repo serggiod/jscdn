@@ -1,0 +1,21 @@
+{
+  "name": "angular-pea-slider",
+  "version":"1.7.0",
+  "license": "MIT",
+  "description": "Image Slider",
+  "main": "./src/angular-pea-slider.js",
+  "authors": [
+    "Felipe Mengatto <felipemengatto@gmail.com>"
+  ],
+  "homepage": "https://github.com/felipemengatto/angular-pea-slider.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.3"
+  }
+}
