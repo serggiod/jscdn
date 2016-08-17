@@ -1,6 +1,6 @@
 {
   "name": "angular-materialize",
-  "version": "0.1.2",
+  "version": "0.1.9",
   "main": "src/angular-materialize.js",
   "ignore": [
     "**/.*",
@@ -9,19 +9,19 @@
     "package.json"
   ],
   "dependencies": {
-    "materialize": "~0.97.2",
+    "materialize": "~0.97.6",
     "jquery": ">=2.1.1",
     "angular": ">=1.3.5"
   },
   "homepage": "https://github.com/krescruz/angular-materialize",
-  "_release": "0.1.2",
+  "_release": "0.1.9",
   "_resolution": {
     "type": "version",
-    "tag": "0.1.2",
-    "commit": "450ef28c7e526bd5098b27f43b817ac3a4103cd7"
+    "tag": "0.1.9",
+    "commit": "27a962d86fa6ca81e500b29e4a740e793ce27216"
   },
-  "_source": "git://github.com/krescruz/angular-materialize.git",
-  "_target": "^0.1.2",
+  "_source": "https://github.com/krescruz/angular-materialize.git",
+  "_target": "^0.1.9",
   "_originalSource": "angular-materialize",
   "_direct": true
 }
