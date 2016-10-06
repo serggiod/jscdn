@@ -36,6 +36,7 @@
     "materialize": "^0.97.7",
     "less": "^2.7.1",
     "angular-pea-slider": "*",
-    "jpillora/xdomain": "xdomain#^0.7.5"
+    "jquery.marquee": "jQuery.Marquee#^1.4.0",
+    "angular-marquee": "*"
   }
 }
