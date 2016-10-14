@@ -37,6 +37,7 @@
     "less": "^2.7.1",
     "angular-pea-slider": "*",
     "jquery.marquee": "jQuery.Marquee#^1.4.0",
-    "angular-marquee": "*"
+    "angular-touch": "^1.5.8",
+    "angular-carousel": "^1.0.1"
   }
 }
