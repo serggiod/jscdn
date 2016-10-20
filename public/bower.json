@@ -39,6 +39,7 @@
     "jquery.marquee": "jQuery.Marquee#^1.4.0",
     "angular-touch": "^1.5.8",
     "angular-carousel": "^1.0.1",
-    "angular-ui-calendar": "^1.0.2"
+    "angular-ui-calendar": "^1.0.2",
+    "fullcalendar": "2.1.1"
   }
 }
