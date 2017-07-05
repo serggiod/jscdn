@@ -1,0 +1,26 @@
+{
+  "name": "dhtmlx",
+  "version": "4.5.1",
+  "description": "JavaScript UI Library, Ajax Components & HTML5 Framework",
+  "main": "dhtmlx.js",
+  "keywords": [
+    "components",
+    "library",
+    "grid",
+    "tree",
+    "form",
+    "layout"
+  ],
+  "license": "GPL",
+  "homepage": "http://dhtmlx.com",
+  "_release": "4.5.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "4.5.1",
+    "commit": "419a845aa58a0af15408663b512c320100f9e10c"
+  },
+  "_source": "https://github.com/DHTMLX/dhtmlx-suite-gpl.git",
+  "_target": "^4.5.1",
+  "_originalSource": "dhtmlx",
+  "_direct": true
+}

@@ -17,7 +17,7 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "^2.2.0",
+    "jquery": "3.1.1",
     "Materialize": "materialize#^0.97.5",
     "angular": "^1.4.9",
     "angular-sanitize": "^1.4.9",
@@ -43,6 +43,10 @@
     "fullcalendar": "3.0.0",
     "angular-animate": "^1.5.8",
     "angular-strap": "^2.3.10",
-    "angular-motion": "^0.4.4"
+    "angular-motion": "^0.4.4",
+    "textAngular": "^1.5.16",
+    "dhtmlx": "^4.5.1",
+    "scheduler": "^4.4.0",
+    "angular-workers": "^1.0.3"
   }
 }
